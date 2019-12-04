@@ -1,4 +1,4 @@
-## About
+## About Haskell
 
 - Purely functional language
 - Immutable by design
